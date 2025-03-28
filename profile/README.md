@@ -1,6 +1,8 @@
 # FixTeam 🚀
 
-<img src="https://raw.githubusercontent.com/Faccin27/fixteam.uk/main/public/tecnop.png" alt="FixTeam Logo" width="300px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faccin27/fixteam.uk/main/public/tecnop.png" alt="FixTeam Logo" width="300px">
+</p>
 
 Bem-vindo ao perfil oficial da **FixTeam**!
 
@@ -23,7 +25,7 @@ A **FixTeam** é uma equipe especializada no desenvolvimento de **sites**, **lan
 Aqui você encontrará projetos inovadores e bem estruturados. Confira alguns deles em nossos repositórios!
 
 ## 🤝 Contato
-📧 E-mail: contato@fixteam.com  
+📧 E-mail: contact@fixteam.uk
 🌐 Website: [fixteam.uk](https://fixteam.uk)  
 📢 Siga-nos para acompanhar nossos lançamentos!
 
