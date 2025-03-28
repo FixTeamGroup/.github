@@ -1,6 +1,6 @@
 # FixTeam 🚀
 
-<img src="[URL_DA_SUA_LOGO_AQUI](https://raw.githubusercontent.com/Faccin27/fixteam.uk/main/public/tecnop.png)" alt="FixTeam Logo" width="300px">
+<img src="https://raw.githubusercontent.com/Faccin27/fixteam.uk/main/public/tecnop.png" alt="FixTeam Logo" width="300px">
 
 Bem-vindo ao perfil oficial da **FixTeam**!
 
