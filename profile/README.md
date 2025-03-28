@@ -17,7 +17,7 @@ A **FixTeam** é uma equipe especializada no desenvolvimento de **sites**, **lan
 
 ## 🚀 Tecnologias Utilizadas
 - **Front-end**: React.js, Next.js, Vue.js, Tailwind CSS
-- **Back-end**: Node.js, Fastify, Nest.js, PHP, Prisma ORM
+- **Back-end**: Node.js, Fastify, Nest.js, PHP, Prisma ORM, SqlAlchemy, python, fastapi, django, flask
 - **Automação**: Python, Selenium, Puppeteer
 - **Banco de Dados**: MySQL, PostgreSQL, MongoDB, SQLite, Firebase, Redis
 
